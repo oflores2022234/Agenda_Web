@@ -9,7 +9,7 @@ body{
 
 .contenedor{
     text-align: center;
-    background-color: #FFD791;
+    background-color: #FFAD08;
     padding: 20px;
     border-radius: 8px;
     box-shadow: rgba(0, 0, 0, 0.1);
@@ -27,8 +27,8 @@ label{
 }
 
 button{
-    background-color: #FFAD08;
-    color: black;
+    background-color: #73B06F;
+    color: white;
     padding: 10px 15px;
     cursor: pointer;
     border: none;
