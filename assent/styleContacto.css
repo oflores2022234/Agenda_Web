@@ -92,4 +92,8 @@ background: linear-gradient(97deg, rgba(97,175,162,1) 19%, rgba(9,121,86,1) 51%,
     border-radius: 5px;
     cursor: pointer;
 }
+
+.ocultar{
+    display: none;
+}
      
