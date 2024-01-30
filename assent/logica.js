@@ -19,3 +19,14 @@ function mostrarOcultar2(){
       }
 
 }
+
+function mostrarOcultar3(){
+
+    var etiqueta = document.getElementById("etiqueta3");
+    if (etiqueta.style.display === "none") {
+        etiqueta.style.display = "block";
+      } else {
+        etiqueta.style.display = "none";
+      }
+
+}
