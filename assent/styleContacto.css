@@ -6,6 +6,19 @@ body{
     min-height: 100vh;
 }
 
+header, .footer {
+    background-color: #0e0f27 ;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.destacado {
+  color: gray; 
+}
+
+
+
 h2{
     text-align: center;
     margin-top: 0;
@@ -51,3 +64,11 @@ h2{
     border-radius: 5px;
     cursor: pointer;
 }
+
+.button{
+    height:30px;
+    width:50px;
+    background-color:floralwhite;
+    border-radius:10%;
+     }
+     
