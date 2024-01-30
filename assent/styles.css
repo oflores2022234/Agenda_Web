@@ -6,7 +6,7 @@ body{
     height: 100vh;
     margin: 0;
     background: rgb(255,173,8);
-background: radial-gradient(circle, rgba(255,173,8,1) 0%, rgba(115,176,111,1) 35%, rgba(235,163,109,1) 100%);
+    background: radial-gradient(circle, rgba(255,173,8,1) 0%, rgba(115,176,111,1) 35%, rgba(235,163,109,1) 100%);
 }
 
 .contenedor{
