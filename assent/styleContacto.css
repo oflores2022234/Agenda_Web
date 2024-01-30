@@ -16,6 +16,11 @@ background: linear-gradient(141deg, rgba(97,175,131,1) 24%, rgba(9,70,121,1) 51%
     text-align: center;
 }
 
+.img{
+    height: 100px;
+    width: 100px;
+}
+
 .destacado {
   color: gray; 
 }
