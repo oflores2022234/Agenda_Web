@@ -80,4 +80,16 @@ background: linear-gradient(97deg, rgba(97,175,162,1) 19%, rgba(9,121,86,1) 51%,
     background-color:floralwhite;
     border-radius:10%;
      }
+
+#ver{
+    display: block;
+    width: 50%;
+    padding: 10px 20px;
+    background: rgb(97,175,162);
+background: linear-gradient(97deg, rgba(97,175,162,1) 19%, rgba(9,121,86,1) 51%, rgba(0,212,255,1) 86%);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
      
