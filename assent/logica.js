@@ -41,3 +41,14 @@ function mostrarOcultar4(){
       }
 
 }
+
+function mostrarOcultar5(){
+
+    var etiqueta = document.getElementById("etiqueta5");
+    if (etiqueta.style.display === "none") {
+        etiqueta.style.display = "block";
+      } else {
+        etiqueta.style.display = "none";
+      }
+
+}
