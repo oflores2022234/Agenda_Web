@@ -30,3 +30,14 @@ function mostrarOcultar3(){
       }
 
 }
+
+function mostrarOcultar4(){
+
+    var etiqueta = document.getElementById("etiqueta4");
+    if (etiqueta.style.display === "none") {
+        etiqueta.style.display = "block";
+      } else {
+        etiqueta.style.display = "none";
+      }
+
+}
