@@ -74,6 +74,19 @@ background: linear-gradient(97deg, rgba(97,175,162,1) 19%, rgba(9,121,86,1) 51%,
     cursor: pointer;
 }
 
+button{
+    background-color: #73B06F;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+}
+
+button:hover{
+    background-color: gray;
+}
+
 .button{
     height:30px;
     width:50px;
