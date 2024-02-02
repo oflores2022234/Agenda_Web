@@ -4,13 +4,13 @@ body{
     padding: 0;
     position: relative;
     min-height: 100vh;
-    background: rgb(251,223,34);
-    background: linear-gradient(90deg, rgba(251,223,34,1) 20%, rgba(9,113,121,1) 52%, rgba(27,232,71,1) 88%);
+    background: rgb(176,255,0);
+    background: linear-gradient(93deg, rgba(176,255,0,1) 20%, rgba(87,243,255,1) 49%, rgba(27,232,71,1) 88%);
 }
 
 header, .footer {
-    background: rgb(251,223,34);
-    background: linear-gradient(184deg, rgba(251,223,34,1) 20%, rgba(9,113,121,1) 52%, rgba(27,232,71,1) 88%);
+    background: rgb(176,255,0);
+    background: linear-gradient(168deg, rgba(176,255,0,1) 20%, rgba(87,243,255,1) 49%, rgba(27,232,71,1) 88%);
     color: #fff;
     padding: 20px;
     text-align: center;
