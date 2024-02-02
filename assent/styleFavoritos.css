@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    min-height: 100vh;
+    background: rgb(251,223,34);
+    background: linear-gradient(90deg, rgba(251,223,34,1) 20%, rgba(9,113,121,1) 52%, rgba(27,232,71,1) 88%);
+}
+
+header, .footer {
+    background: rgb(251,223,34);
+    background: linear-gradient(184deg, rgba(251,223,34,1) 20%, rgba(9,113,121,1) 52%, rgba(27,232,71,1) 88%);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.img{
+    height: 100px;
+    width: 100px;
+}
+
+.destacado {
+  color: gray; 
+}
